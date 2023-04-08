@@ -6,6 +6,7 @@ metaDataFormat: yaml
 defaultContentLanguage: en
 pygmentsCodeFences: true
 pygmentsUseClasses: true
+enableEmoji: true
 markup:
   goldmark:
     renderer:

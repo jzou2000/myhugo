@@ -11,6 +11,7 @@ pygmentsCodefences: true
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
+enableEmoji: true
 
 markup:
   goldmark:
